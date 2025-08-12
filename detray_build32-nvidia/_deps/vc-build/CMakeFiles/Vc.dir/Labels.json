@@ -1,0 +1,124 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-src/src/const.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-src/src/cpuid.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-src/src/support_x86.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE2.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE3.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSSE3.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE4_1.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX+FMA.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX2+FMA+BMI2.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX+XOP+FMA.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE+XOP+FMA4.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX+XOP+FMA4.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE+XOP+FMA.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_SSE2.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_SSE4_1.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_AVX.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_AVX2+FMA+BMI2.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/avx_sorthelper_AVX.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/avx_sorthelper_AVX2+FMA+BMI2.cpp"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE2.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE3.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSSE3.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE4_1.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX+FMA.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX2+FMA+BMI2.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX+XOP+FMA.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE+XOP+FMA4.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX+XOP+FMA4.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE+XOP+FMA.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_SSE2.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_SSE4_1.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_AVX.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_AVX2+FMA+BMI2.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/avx_sorthelper_AVX.cpp.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/avx_sorthelper_AVX2+FMA+BMI2.cpp.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"other"
+		],
+		"name" : "Vc"
+	}
+}

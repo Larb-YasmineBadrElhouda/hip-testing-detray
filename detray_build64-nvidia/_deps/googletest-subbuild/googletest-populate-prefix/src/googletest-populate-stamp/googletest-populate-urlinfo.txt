@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/mnt/hdd1/software/modules/sw/core/cmake/3.30/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/download-googletest-populate.cmake;COMMAND;/mnt/hdd1/software/modules/sw/core/cmake/3.30/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/verify-googletest-populate.cmake;COMMAND;/mnt/hdd1/software/modules/sw/core/cmake/3.30/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/extract-googletest-populate.cmake
+source_dir=/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps/googletest-src
+work_dir=/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps
+url(s)=https://github.com/google/googletest/archive/refs/tags/v1.14.0.tar.gz
+hash=MD5=c8340a482851ef6a3fe618a082304cfc
+      no_extract=
+

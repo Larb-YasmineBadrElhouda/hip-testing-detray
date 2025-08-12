@@ -1,0 +1,40 @@
+# Target labels
+ other
+# Source files and their labels
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-src/src/const.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-src/src/cpuid.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-src/src/support_x86.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE2.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE3.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSSE3.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE4_1.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX+FMA.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX2+FMA+BMI2.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX+XOP+FMA.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE+XOP+FMA4.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX+XOP+FMA4.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE+XOP+FMA.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_SSE2.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_SSE4_1.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_AVX.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_AVX2+FMA+BMI2.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/avx_sorthelper_AVX.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/avx_sorthelper_AVX2+FMA+BMI2.cpp
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE2.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE3.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSSE3.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE4_1.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX+FMA.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX2+FMA+BMI2.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX+XOP+FMA.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE+XOP+FMA4.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_AVX+XOP+FMA4.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/trigonometric_SSE+XOP+FMA.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_SSE2.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_SSE4_1.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_AVX.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/sse_sorthelper_AVX2+FMA+BMI2.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/avx_sorthelper_AVX.cpp.rule
+/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build32-nvidia/_deps/vc-build/avx_sorthelper_AVX2+FMA+BMI2.cpp.rule

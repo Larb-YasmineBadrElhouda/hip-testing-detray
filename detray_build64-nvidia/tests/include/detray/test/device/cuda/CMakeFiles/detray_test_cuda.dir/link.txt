@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../../../lib64/libdetray_test_cuda.a CMakeFiles/detray_test_cuda.dir/material_validation.cu.o CMakeFiles/detray_test_cuda.dir/navigation_validation.cu.o
+/usr/bin/ranlib ../../../../../../lib64/libdetray_test_cuda.a

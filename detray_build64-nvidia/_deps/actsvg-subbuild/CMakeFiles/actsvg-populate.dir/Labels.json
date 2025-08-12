@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps/actsvg-subbuild/CMakeFiles/actsvg-populate"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps/actsvg-subbuild/CMakeFiles/actsvg-populate.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps/actsvg-subbuild/CMakeFiles/actsvg-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps/actsvg-subbuild/actsvg-populate-prefix/src/actsvg-populate-stamp/actsvg-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps/actsvg-subbuild/actsvg-populate-prefix/src/actsvg-populate-stamp/actsvg-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps/actsvg-subbuild/actsvg-populate-prefix/src/actsvg-populate-stamp/actsvg-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps/actsvg-subbuild/actsvg-populate-prefix/src/actsvg-populate-stamp/actsvg-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps/actsvg-subbuild/actsvg-populate-prefix/src/actsvg-populate-stamp/actsvg-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps/actsvg-subbuild/actsvg-populate-prefix/src/actsvg-populate-stamp/actsvg-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps/actsvg-subbuild/actsvg-populate-prefix/src/actsvg-populate-stamp/actsvg-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/ssd1/ylarbaou/2nd_test/detray2/detray_build64-nvidia/_deps/actsvg-subbuild/actsvg-populate-prefix/src/actsvg-populate-stamp/actsvg-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"actsvg-populate"
+		],
+		"name" : "actsvg-populate"
+	}
+}

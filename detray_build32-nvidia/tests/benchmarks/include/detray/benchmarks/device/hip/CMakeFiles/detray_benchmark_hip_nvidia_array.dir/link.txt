@@ -1,0 +1,1 @@
+/usr/bin/ar qc ../../../../../../../lib64/libdetray_benchmark_hip_nvidia_array.a CMakeFiles/detray_benchmark_hip_nvidia_array.dir/propagation_benchmark.hip.o

@@ -1,0 +1,1 @@
+set( CMAKE_HIP_COMPILER "/opt/rocm-6.0.3/bin/hipcc" )

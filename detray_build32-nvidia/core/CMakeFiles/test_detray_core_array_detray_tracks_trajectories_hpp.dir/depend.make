@@ -1,0 +1,2 @@
+# Empty dependencies file for test_detray_core_array_detray_tracks_trajectories_hpp.
+# This may be replaced when dependencies are built.

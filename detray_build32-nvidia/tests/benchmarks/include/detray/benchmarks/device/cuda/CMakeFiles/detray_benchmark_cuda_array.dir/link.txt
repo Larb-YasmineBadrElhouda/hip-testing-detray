@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../../../../lib64/libdetray_benchmark_cuda_array.a CMakeFiles/detray_benchmark_cuda_array.dir/propagation_benchmark.cu.o
+/usr/bin/ranlib ../../../../../../../lib64/libdetray_benchmark_cuda_array.a
