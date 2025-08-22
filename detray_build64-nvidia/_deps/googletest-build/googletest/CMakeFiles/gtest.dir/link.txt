@@ -1,1 +1,0 @@
-/software/modules/sw/core/gcc/13.2/bin/g++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libgtest.so.1.14.0 -o ../../../lib/libgtest.so.1.14.0 "CMakeFiles/gtest.dir/src/gtest-all.cc.o"
